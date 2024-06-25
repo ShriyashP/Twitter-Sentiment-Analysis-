@@ -43,10 +43,6 @@ Features
 - Successfully detected hate speech with increased model performance.
 - F1-Score: 74.80%
 
-Contributing
-
-Contributions are welcome! Please create a pull request or open an issue to discuss your ideas.
-
  License
 
 This project is licensed under the MIT License.
